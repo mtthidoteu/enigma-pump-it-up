@@ -7,3 +7,4 @@ seaborn
 autoimpute
 missingno
 optuna
+miceforest
