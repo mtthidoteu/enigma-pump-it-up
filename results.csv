@@ -80,7 +80,7 @@ id,status_group
 12549,functional
 24328,non functional
 13750,non functional
-1574,non functional
+1574,functional
 44149,non functional
 53917,functional
 22705,functional
@@ -122,7 +122,7 @@ id,status_group
 38884,non functional
 13690,functional
 60335,functional
-31856,non functional
+31856,functional
 67891,functional
 25564,non functional
 55293,functional
@@ -175,7 +175,7 @@ id,status_group
 54368,non functional
 2866,functional
 51130,functional
-27993,functional
+27993,non functional
 21621,non functional
 66038,functional
 42182,functional
@@ -184,7 +184,7 @@ id,status_group
 47978,functional
 52359,functional
 69656,non functional
-24086,non functional
+24086,functional
 43579,functional
 43284,non functional
 2877,non functional
@@ -211,7 +211,7 @@ id,status_group
 63711,functional
 72840,functional
 31651,non functional
-3782,functional
+3782,functional needs repair
 6799,functional
 21402,functional
 35390,functional
@@ -262,7 +262,7 @@ id,status_group
 51961,functional
 38481,functional
 48371,functional
-56540,non functional
+56540,functional needs repair
 18142,functional
 72934,non functional
 39300,non functional
@@ -355,10 +355,10 @@ id,status_group
 48104,functional
 50171,non functional
 63137,functional
-38301,functional
+38301,functional needs repair
 10948,functional
 33232,functional
-61415,functional
+61415,non functional
 69131,functional
 73555,functional
 46610,functional
@@ -388,7 +388,7 @@ id,status_group
 37122,non functional
 45156,functional
 22874,non functional
-58774,functional
+58774,non functional
 40092,non functional
 17487,functional
 35886,non functional
@@ -472,7 +472,7 @@ id,status_group
 36112,non functional
 6294,functional
 40612,non functional
-62793,functional needs repair
+62793,functional
 58090,functional
 2532,non functional
 38865,non functional
@@ -487,7 +487,7 @@ id,status_group
 27771,functional
 9336,functional
 12545,functional
-54811,functional
+54811,non functional
 48326,non functional
 31787,non functional
 61745,non functional
@@ -496,7 +496,7 @@ id,status_group
 46917,functional
 26718,functional
 3138,non functional
-72932,functional
+72932,non functional
 25707,functional
 68580,non functional
 25064,functional
@@ -539,7 +539,7 @@ id,status_group
 45445,functional
 52609,functional
 35087,functional
-42767,functional
+42767,non functional
 24373,functional
 32895,non functional
 9328,non functional
@@ -600,7 +600,7 @@ id,status_group
 45823,non functional
 19985,functional
 61834,non functional
-54171,functional
+54171,non functional
 62763,functional
 42408,functional
 13151,functional
@@ -732,7 +732,7 @@ id,status_group
 4339,functional
 54735,functional
 51916,functional
-58114,functional
+58114,non functional
 28339,functional needs repair
 52048,non functional
 66497,non functional
@@ -815,16 +815,16 @@ id,status_group
 65951,functional
 20661,functional
 55504,functional needs repair
-66975,functional
+66975,non functional
 72057,functional
-49331,functional
+49331,non functional
 52682,functional
 37859,functional
 10460,functional
 12407,functional
 69993,functional
 13012,functional
-70896,functional
+70896,non functional
 13264,functional
 51824,non functional
 60216,functional
@@ -846,7 +846,7 @@ id,status_group
 9086,functional
 56422,functional
 39106,functional
-4515,functional needs repair
+4515,functional
 48594,non functional
 63779,functional
 60740,non functional
@@ -859,7 +859,7 @@ id,status_group
 21890,non functional
 52336,non functional
 57756,functional
-45465,non functional
+45465,functional needs repair
 4989,functional
 51585,functional
 50533,functional
@@ -924,7 +924,7 @@ id,status_group
 52757,non functional
 62729,non functional
 24324,non functional
-51298,non functional
+51298,functional
 17127,non functional
 28152,functional
 14259,non functional
@@ -960,7 +960,7 @@ id,status_group
 60165,functional
 64683,functional
 7089,functional
-13516,functional
+13516,non functional
 47720,functional
 22588,non functional
 28580,non functional
@@ -1057,7 +1057,7 @@ id,status_group
 27469,functional
 31290,non functional
 72594,functional
-2854,non functional
+2854,functional
 19679,non functional
 46470,functional
 9931,non functional
@@ -1070,13 +1070,13 @@ id,status_group
 63438,non functional
 52302,non functional
 44486,functional
-4641,non functional
+4641,functional
 47724,functional
 4393,functional
 54938,functional
 66983,non functional
 55870,non functional
-62561,functional
+62561,non functional
 7975,non functional
 9418,non functional
 4929,functional
@@ -1137,11 +1137,11 @@ id,status_group
 59091,functional
 44927,non functional
 59415,functional
-59722,non functional
+59722,functional
 49411,functional
 40903,non functional
 64786,non functional
-36207,functional
+36207,non functional
 61178,functional
 55377,functional
 34300,functional
@@ -1186,7 +1186,7 @@ id,status_group
 20712,functional
 20187,non functional
 12383,non functional
-33364,functional
+33364,non functional
 9646,functional
 12201,non functional
 1782,non functional
@@ -1215,7 +1215,7 @@ id,status_group
 32973,non functional
 52140,functional
 51060,functional
-33106,non functional
+33106,functional
 55127,functional
 8640,functional
 43117,functional
@@ -1223,7 +1223,7 @@ id,status_group
 11183,non functional
 72250,functional
 50586,functional
-48093,non functional
+48093,functional
 37435,functional
 9379,non functional
 65657,non functional
@@ -1256,7 +1256,7 @@ id,status_group
 21663,non functional
 66747,functional
 8343,non functional
-43675,functional
+43675,functional needs repair
 12325,functional
 27609,functional
 70092,functional
@@ -1387,7 +1387,7 @@ id,status_group
 13193,non functional
 60880,functional
 71008,functional
-67514,functional
+67514,non functional
 34910,functional
 383,non functional
 23977,non functional
@@ -1671,7 +1671,7 @@ id,status_group
 16738,functional
 13627,functional
 13404,non functional
-16649,functional
+16649,non functional
 8572,functional
 71169,functional
 71519,functional
@@ -1687,7 +1687,7 @@ id,status_group
 29631,functional
 54016,functional
 71623,non functional
-67739,non functional
+67739,functional
 30275,functional
 29073,functional
 59974,functional
@@ -1695,7 +1695,7 @@ id,status_group
 15654,functional
 12002,non functional
 10489,non functional
-49293,functional
+49293,non functional
 23467,functional
 6668,functional needs repair
 6876,non functional
@@ -1808,7 +1808,7 @@ id,status_group
 65220,functional needs repair
 31365,functional
 60072,functional
-45524,functional
+45524,functional needs repair
 536,non functional
 21099,non functional
 45506,non functional
@@ -1879,7 +1879,7 @@ id,status_group
 48103,functional
 49852,functional
 17098,non functional
-1767,non functional
+1767,functional
 33791,functional
 60357,non functional
 27287,non functional
@@ -1946,7 +1946,7 @@ id,status_group
 42567,functional
 44374,non functional
 1807,functional
-51223,functional
+51223,non functional
 15702,non functional
 11806,functional
 54631,functional
@@ -1961,7 +1961,7 @@ id,status_group
 66403,non functional
 48472,functional
 64553,functional
-24516,non functional
+24516,functional
 20160,functional
 6966,functional needs repair
 65057,functional
@@ -1970,7 +1970,7 @@ id,status_group
 27280,functional
 39968,non functional
 33060,functional
-50189,functional
+50189,non functional
 8863,functional
 18527,functional
 49700,functional
@@ -2070,7 +2070,7 @@ id,status_group
 28474,functional needs repair
 19611,non functional
 53689,functional
-69613,functional
+69613,functional needs repair
 40335,functional
 21223,non functional
 48646,functional
@@ -2102,11 +2102,11 @@ id,status_group
 71748,non functional
 3149,functional
 74152,functional
-60368,non functional
+60368,functional
 16858,functional
 37670,non functional
 35354,functional
-7892,non functional
+7892,functional needs repair
 47875,non functional
 6277,functional
 1223,functional
@@ -2167,7 +2167,7 @@ id,status_group
 54669,non functional
 7919,functional needs repair
 58595,functional
-2381,non functional
+2381,functional
 39457,functional
 6055,functional
 59141,functional
@@ -2296,7 +2296,7 @@ id,status_group
 5756,non functional
 65520,non functional
 17723,functional
-43704,functional
+43704,functional needs repair
 32284,functional
 26312,non functional
 54828,functional
@@ -2327,7 +2327,7 @@ id,status_group
 64456,functional
 66412,functional
 39856,functional
-54522,functional
+54522,non functional
 10505,functional
 31406,functional
 28354,functional
@@ -2350,7 +2350,7 @@ id,status_group
 66648,functional
 60179,functional
 46608,functional
-7912,functional
+7912,non functional
 40483,functional
 28335,non functional
 64791,functional
@@ -2378,7 +2378,7 @@ id,status_group
 9905,non functional
 27743,functional
 35256,functional
-35537,non functional
+35537,functional
 25120,functional
 43468,functional
 53035,functional
@@ -2403,7 +2403,7 @@ id,status_group
 12727,functional
 48628,functional
 34433,non functional
-57340,non functional
+57340,functional
 46701,functional
 35299,functional
 41210,functional
@@ -2472,7 +2472,7 @@ id,status_group
 57734,functional
 20544,functional
 41379,non functional
-60327,functional
+60327,non functional
 1519,functional
 29287,non functional
 34402,functional
@@ -2484,7 +2484,7 @@ id,status_group
 18466,non functional
 54595,functional
 68420,functional
-46243,non functional
+46243,functional
 11188,functional
 28564,functional
 40356,functional
@@ -2507,7 +2507,7 @@ id,status_group
 1435,functional
 14086,functional
 29558,non functional
-22089,non functional
+22089,functional
 73400,functional
 66429,functional
 2755,functional
@@ -2526,7 +2526,7 @@ id,status_group
 62753,functional
 25848,functional
 28872,functional
-43337,functional needs repair
+43337,functional
 67715,functional
 28757,functional
 25448,non functional
@@ -2586,7 +2586,7 @@ id,status_group
 69274,functional
 32687,functional
 58370,functional
-8821,non functional
+8821,functional
 30476,functional
 48063,functional
 71219,non functional
@@ -2651,7 +2651,7 @@ id,status_group
 57164,functional
 54766,functional
 10445,non functional
-69659,non functional
+69659,functional needs repair
 53011,non functional
 67787,functional
 39504,functional needs repair
@@ -2671,7 +2671,7 @@ id,status_group
 52115,non functional
 42464,functional
 33916,functional
-8964,functional
+8964,non functional
 42527,functional
 23260,non functional
 23503,functional
@@ -2705,7 +2705,7 @@ id,status_group
 21276,functional
 47954,non functional
 50426,non functional
-72165,non functional
+72165,functional
 72006,functional
 39270,non functional
 7088,functional needs repair
@@ -2718,7 +2718,7 @@ id,status_group
 37996,functional
 15392,functional
 27845,non functional
-65984,functional
+65984,non functional
 61520,non functional
 37004,functional needs repair
 27595,functional
@@ -2730,7 +2730,7 @@ id,status_group
 44746,functional needs repair
 67617,functional
 46107,functional
-55717,non functional
+55717,functional
 29696,non functional
 11244,functional
 54543,non functional
@@ -2867,7 +2867,7 @@ id,status_group
 27174,functional
 70719,functional
 27756,non functional
-49925,functional needs repair
+49925,functional
 62114,non functional
 28591,functional
 37672,functional
@@ -2880,7 +2880,7 @@ id,status_group
 72318,functional
 39271,functional
 41833,functional
-10851,non functional
+10851,functional
 57434,functional
 19876,functional
 50411,functional
@@ -2934,12 +2934,12 @@ id,status_group
 12311,functional
 1724,functional
 71065,functional
-58386,non functional
+58386,functional
 63208,non functional
 36384,non functional
 1512,non functional
-5326,functional
-12884,functional
+5326,non functional
+12884,non functional
 44202,functional
 15004,non functional
 1832,functional
@@ -2958,7 +2958,7 @@ id,status_group
 37756,functional
 13423,functional
 27062,non functional
-13306,non functional
+13306,functional
 72344,functional
 50638,functional
 40548,non functional
@@ -3001,7 +3001,7 @@ id,status_group
 70820,functional
 45010,functional needs repair
 39636,non functional
-39440,functional
+39440,non functional
 53389,functional
 24337,functional
 46136,functional
@@ -3084,7 +3084,7 @@ id,status_group
 45199,non functional
 24104,functional
 37598,functional
-29507,non functional
+29507,functional
 19752,functional
 50424,non functional
 69426,non functional
@@ -3109,7 +3109,7 @@ id,status_group
 37540,non functional
 10876,functional
 21129,non functional
-18305,functional
+18305,non functional
 24716,functional
 28634,non functional
 56639,non functional
@@ -3136,7 +3136,7 @@ id,status_group
 34902,functional
 18861,non functional
 71735,functional
-38399,functional
+38399,non functional
 12378,functional
 25889,non functional
 30615,non functional
@@ -3147,7 +3147,7 @@ id,status_group
 62019,functional
 25482,functional
 56928,functional
-68252,non functional
+68252,functional
 63578,functional
 42879,functional
 61919,non functional
@@ -3157,12 +3157,12 @@ id,status_group
 24153,functional
 64834,non functional
 25681,functional
-9028,functional
+9028,non functional
 9555,functional
 22192,non functional
 6080,non functional
 19760,functional
-11589,non functional
+11589,functional
 53679,functional
 38562,non functional
 58660,functional
@@ -3261,7 +3261,7 @@ id,status_group
 50336,functional
 12020,non functional
 56644,non functional
-50949,functional
+50949,non functional
 39756,functional
 62917,non functional
 34076,functional
@@ -3308,7 +3308,7 @@ id,status_group
 27273,non functional
 16086,functional
 33285,functional
-63940,non functional
+63940,functional
 19839,functional
 48337,functional
 13562,functional
@@ -3345,7 +3345,7 @@ id,status_group
 55223,non functional
 61902,functional
 16845,non functional
-23676,functional
+23676,non functional
 31662,functional
 8450,functional needs repair
 24733,functional
@@ -3383,8 +3383,8 @@ id,status_group
 63012,functional
 70191,functional
 66194,non functional
-59349,non functional
-44031,functional needs repair
+59349,functional
+44031,functional
 27596,functional
 67690,non functional
 14339,non functional
@@ -3416,7 +3416,7 @@ id,status_group
 35490,functional needs repair
 70196,functional
 69975,functional
-74118,functional
+74118,non functional
 43080,functional
 70998,non functional
 13035,functional
@@ -3433,7 +3433,7 @@ id,status_group
 30297,functional
 46805,functional
 24934,functional
-61215,non functional
+61215,functional
 45916,non functional
 49783,non functional
 23980,functional
@@ -3528,7 +3528,7 @@ id,status_group
 36471,non functional
 42072,non functional
 45613,non functional
-15744,non functional
+15744,functional
 8106,non functional
 22460,non functional
 20063,non functional
@@ -3551,7 +3551,7 @@ id,status_group
 19983,functional
 64985,functional needs repair
 29425,non functional
-12881,non functional
+12881,functional
 38052,non functional
 29895,non functional
 6333,functional
@@ -3564,10 +3564,10 @@ id,status_group
 2043,functional
 64545,functional
 45525,non functional
-16304,non functional
+16304,functional
 18548,functional
 33577,functional
-21813,functional
+21813,functional needs repair
 23524,functional
 9174,functional
 31827,functional
@@ -3583,7 +3583,7 @@ id,status_group
 63507,functional
 28438,non functional
 37265,functional needs repair
-65696,non functional
+65696,functional
 3861,functional
 68208,non functional
 46929,functional
@@ -3599,7 +3599,7 @@ id,status_group
 21961,functional
 56601,non functional
 61269,functional
-33277,non functional
+33277,functional
 51021,non functional
 54626,non functional
 19903,non functional
@@ -3719,7 +3719,7 @@ id,status_group
 6533,functional
 14468,non functional
 71872,non functional
-22342,functional
+22342,non functional
 4559,functional
 26044,non functional
 12750,non functional
@@ -3794,7 +3794,7 @@ id,status_group
 56047,functional
 5456,functional
 67961,non functional
-48719,non functional
+48719,functional
 68999,non functional
 71751,functional
 7084,functional
@@ -3811,7 +3811,7 @@ id,status_group
 10345,non functional
 69992,non functional
 13378,functional
-60813,functional
+60813,non functional
 24517,functional
 67270,functional
 35400,non functional
@@ -3890,7 +3890,7 @@ id,status_group
 37767,functional
 73118,functional
 21130,functional
-24449,non functional
+24449,functional
 33856,non functional
 44712,functional
 61179,functional
@@ -3934,7 +3934,7 @@ id,status_group
 28460,functional
 66744,non functional
 69098,functional
-26020,non functional
+26020,functional
 18906,non functional
 12740,functional
 52397,non functional
@@ -3977,7 +3977,7 @@ id,status_group
 50822,functional
 30825,functional
 34789,non functional
-54878,functional
+54878,non functional
 25800,non functional
 9048,non functional
 7562,functional
@@ -4214,7 +4214,7 @@ id,status_group
 22349,non functional
 47685,functional needs repair
 61162,functional
-9722,functional
+9722,non functional
 42191,functional
 1591,functional
 1749,non functional
@@ -4265,7 +4265,7 @@ id,status_group
 46936,non functional
 51117,non functional
 21611,non functional
-55628,functional
+55628,non functional
 70627,non functional
 56387,functional
 64164,non functional
@@ -4349,8 +4349,8 @@ id,status_group
 56425,functional
 5448,non functional
 58864,functional
-3294,functional
-59793,non functional
+3294,non functional
+59793,functional
 22124,functional
 29314,functional
 48488,non functional
@@ -4389,7 +4389,7 @@ id,status_group
 3735,non functional
 57310,functional
 23690,non functional
-16483,functional
+16483,non functional
 30119,functional
 57721,functional
 50631,functional
@@ -4458,7 +4458,7 @@ id,status_group
 44223,functional
 48211,functional
 72329,functional
-65035,functional
+65035,functional needs repair
 9044,functional
 3890,functional
 51633,non functional
@@ -4499,7 +4499,7 @@ id,status_group
 13518,functional
 63302,functional
 67702,functional
-42060,functional
+42060,non functional
 34084,non functional
 39302,functional
 43093,non functional
@@ -4531,7 +4531,7 @@ id,status_group
 41245,functional
 43236,non functional
 61688,functional
-19508,non functional
+19508,functional
 8407,functional
 71177,non functional
 4740,functional
@@ -4561,7 +4561,7 @@ id,status_group
 9050,non functional
 10367,functional
 41842,non functional
-43939,non functional
+43939,functional
 52426,functional
 47664,non functional
 20760,functional
@@ -4615,7 +4615,7 @@ id,status_group
 42568,non functional
 62342,non functional
 6042,non functional
-55931,non functional
+55931,functional
 50120,functional
 14780,functional
 65623,functional
@@ -4713,7 +4713,7 @@ id,status_group
 38334,non functional
 48315,functional
 50851,functional
-41147,functional
+41147,functional needs repair
 1514,functional
 29844,non functional
 25169,non functional
@@ -5046,7 +5046,7 @@ id,status_group
 52794,non functional
 59717,non functional
 7462,functional
-9964,functional
+9964,non functional
 8653,non functional
 69055,non functional
 5487,non functional
@@ -5359,7 +5359,7 @@ id,status_group
 11163,non functional
 41706,functional
 14363,functional
-19333,functional needs repair
+19333,functional
 1677,non functional
 40762,functional
 38982,functional
@@ -5504,7 +5504,7 @@ id,status_group
 20761,non functional
 12733,non functional
 7719,non functional
-62328,functional
+62328,non functional
 53940,functional
 61786,functional needs repair
 39842,functional
@@ -5570,7 +5570,7 @@ id,status_group
 31657,non functional
 33367,functional
 35200,functional
-29344,non functional
+29344,functional
 8439,functional
 6882,functional
 42207,functional
@@ -5619,7 +5619,7 @@ id,status_group
 8051,non functional
 64033,functional
 72127,non functional
-14191,functional needs repair
+14191,functional
 36627,functional
 67594,functional needs repair
 66552,functional
@@ -5632,7 +5632,7 @@ id,status_group
 37622,non functional
 39054,functional
 28677,non functional
-7581,non functional
+7581,functional
 59323,functional
 46284,functional
 54745,functional
@@ -5758,7 +5758,7 @@ id,status_group
 53490,functional needs repair
 40759,non functional
 49462,functional
-56164,non functional
+56164,functional
 60538,non functional
 54403,functional
 60683,non functional
@@ -5772,7 +5772,7 @@ id,status_group
 46111,functional
 39409,functional
 12892,functional
-70642,functional
+70642,functional needs repair
 945,non functional
 71295,non functional
 72251,non functional
@@ -5810,7 +5810,7 @@ id,status_group
 48635,functional
 14552,non functional
 72830,functional
-21074,non functional
+21074,functional
 25444,non functional
 6462,functional
 29267,non functional
@@ -5834,7 +5834,7 @@ id,status_group
 44565,functional
 38818,non functional
 24552,non functional
-55617,functional needs repair
+55617,non functional
 18813,non functional
 3887,non functional
 7652,non functional
@@ -5851,7 +5851,7 @@ id,status_group
 612,non functional
 17971,non functional
 8577,non functional
-43702,functional
+43702,non functional
 29284,non functional
 37817,non functional
 39263,functional
@@ -5869,7 +5869,7 @@ id,status_group
 39709,non functional
 22669,functional
 57,functional
-5762,functional
+5762,non functional
 47582,functional
 2862,non functional
 47170,functional
@@ -5892,7 +5892,7 @@ id,status_group
 70767,functional
 71701,functional
 26102,non functional
-51929,non functional
+51929,functional
 25360,functional
 66007,non functional
 72654,non functional
@@ -5908,7 +5908,7 @@ id,status_group
 6222,functional
 60691,non functional
 19270,non functional
-42962,functional
+42962,non functional
 21802,functional needs repair
 50828,functional
 64804,non functional
@@ -5945,7 +5945,7 @@ id,status_group
 54491,functional
 44236,functional
 12944,functional
-48838,functional needs repair
+48838,non functional
 43970,functional
 67142,functional
 56464,functional
@@ -6019,9 +6019,9 @@ id,status_group
 50142,functional
 22594,functional
 42991,non functional
-44179,functional
+44179,non functional
 15655,functional
-39337,functional
+39337,non functional
 3217,non functional
 26509,non functional
 58943,non functional
@@ -6045,7 +6045,7 @@ id,status_group
 25121,non functional
 21985,functional
 53515,functional
-24453,non functional
+24453,functional
 48251,functional
 16493,non functional
 1804,non functional
@@ -6098,7 +6098,7 @@ id,status_group
 14474,functional needs repair
 67458,functional needs repair
 21103,non functional
-26165,non functional
+26165,functional
 65119,functional
 12626,functional
 69907,non functional
@@ -6172,7 +6172,7 @@ id,status_group
 50830,non functional
 19033,functional
 43127,functional
-7278,non functional
+7278,functional
 19109,functional
 9528,non functional
 71598,functional
@@ -6214,7 +6214,7 @@ id,status_group
 31322,functional
 1207,non functional
 35115,non functional
-3509,functional
+3509,non functional
 21157,functional
 2478,functional
 69155,non functional
@@ -6252,13 +6252,13 @@ id,status_group
 59847,non functional
 62228,functional
 28636,functional
-71546,functional needs repair
+71546,functional
 33611,functional
 67035,functional
 51737,functional
 63250,non functional
 44439,functional needs repair
-3298,functional
+3298,non functional
 45266,non functional
 39647,non functional
 37026,functional
@@ -6315,7 +6315,7 @@ id,status_group
 52243,functional
 59945,functional
 56897,non functional
-58215,non functional
+58215,functional
 18209,functional
 53764,non functional
 848,functional
@@ -6434,7 +6434,7 @@ id,status_group
 40989,non functional
 61,non functional
 59992,non functional
-3933,functional
+3933,non functional
 46686,non functional
 48389,functional
 12826,non functional
@@ -6444,7 +6444,7 @@ id,status_group
 19999,functional
 29057,non functional
 36247,functional
-29742,non functional
+29742,functional
 30182,functional
 34775,functional
 46209,functional
@@ -6493,7 +6493,7 @@ id,status_group
 360,non functional
 59527,non functional
 43274,functional needs repair
-61206,functional
+61206,non functional
 2036,non functional
 45677,functional
 64311,functional needs repair
@@ -6517,7 +6517,7 @@ id,status_group
 30144,non functional
 60541,functional
 37982,functional
-43851,non functional
+43851,functional
 3537,non functional
 21294,functional
 29616,non functional
@@ -6603,7 +6603,7 @@ id,status_group
 1538,functional
 55340,functional
 34058,non functional
-8037,functional
+8037,non functional
 44777,non functional
 17812,functional
 60735,functional
@@ -6787,7 +6787,7 @@ id,status_group
 39675,non functional
 34594,non functional
 64632,non functional
-20266,non functional
+20266,functional
 22802,functional
 20208,functional
 29300,non functional
@@ -6815,7 +6815,7 @@ id,status_group
 23650,non functional
 62683,non functional
 35693,functional
-25763,functional
+25763,non functional
 72950,non functional
 37896,functional
 54366,non functional
@@ -6823,9 +6823,9 @@ id,status_group
 43971,functional
 2467,functional
 72516,functional
-17266,non functional
+17266,functional
 41746,non functional
-9315,functional needs repair
+9315,functional
 9802,functional
 73506,non functional
 5285,non functional
@@ -6903,7 +6903,7 @@ id,status_group
 42584,functional
 26078,functional
 52117,functional
-66364,functional
+66364,non functional
 39422,functional
 5059,functional
 11368,functional
@@ -6970,7 +6970,7 @@ id,status_group
 60016,functional
 70162,functional
 22698,functional
-8701,non functional
+8701,functional
 42087,functional
 52958,functional
 33952,functional
@@ -6998,7 +6998,7 @@ id,status_group
 53900,functional
 27036,functional
 47864,functional
-14057,non functional
+14057,functional
 24223,non functional
 53430,functional
 4891,functional
@@ -7150,7 +7150,7 @@ id,status_group
 10713,functional
 22734,functional
 16087,functional needs repair
-18149,non functional
+18149,functional
 36657,functional
 4068,non functional
 63610,non functional
@@ -7159,13 +7159,13 @@ id,status_group
 36574,functional
 4406,functional
 65365,functional
-44055,functional
+44055,non functional
 70621,functional
 2247,functional
 6935,functional
 4418,functional
 60547,functional
-135,functional
+135,non functional
 24055,functional
 1312,functional
 10331,functional
@@ -7220,7 +7220,7 @@ id,status_group
 49977,functional
 26436,non functional
 39764,functional
-59511,functional needs repair
+59511,functional
 67376,non functional
 18372,functional
 60995,functional
@@ -7266,10 +7266,10 @@ id,status_group
 31549,functional
 37511,functional
 68378,non functional
-15031,functional
+15031,non functional
 58739,non functional
 8089,non functional
-21828,non functional
+21828,functional
 7638,non functional
 56568,functional
 29502,functional
@@ -7424,7 +7424,7 @@ id,status_group
 50996,functional
 70413,non functional
 19540,functional
-17886,non functional
+17886,functional
 2095,non functional
 61538,non functional
 65494,non functional
@@ -7484,7 +7484,7 @@ id,status_group
 41582,non functional
 46838,functional
 70576,non functional
-23323,non functional
+23323,functional
 3973,functional
 65816,functional
 43626,functional
@@ -7493,7 +7493,7 @@ id,status_group
 73066,functional
 67978,functional
 13443,functional
-32444,non functional
+32444,functional
 8155,functional
 18982,functional
 24533,functional
@@ -7536,7 +7536,7 @@ id,status_group
 29200,functional
 48207,functional
 5169,functional
-10865,functional
+10865,non functional
 48994,functional
 27483,functional
 4802,non functional
@@ -7617,7 +7617,7 @@ id,status_group
 59893,functional
 18294,non functional
 2375,non functional
-24452,functional
+24452,non functional
 60068,functional
 22177,functional
 15599,functional
@@ -7625,7 +7625,7 @@ id,status_group
 33128,functional
 6079,functional
 13266,functional
-35442,functional
+35442,functional needs repair
 61825,non functional
 41385,functional
 4520,functional
@@ -7788,7 +7788,7 @@ id,status_group
 71388,non functional
 18604,functional
 44350,functional
-62598,functional
+62598,non functional
 43591,functional needs repair
 51885,functional
 13290,functional
@@ -7818,7 +7818,7 @@ id,status_group
 23566,non functional
 38271,functional
 47572,functional
-71841,functional
+71841,non functional
 73967,functional
 60861,functional
 20526,functional
@@ -7905,7 +7905,7 @@ id,status_group
 51571,functional
 32839,functional needs repair
 10978,functional
-30879,functional
+30879,non functional
 67002,functional needs repair
 60951,functional
 1889,functional
@@ -7973,7 +7973,7 @@ id,status_group
 29599,non functional
 64096,functional
 18671,non functional
-3281,functional
+3281,non functional
 72728,non functional
 15987,functional
 73993,functional
@@ -8089,9 +8089,9 @@ id,status_group
 38441,functional
 57081,functional
 14525,functional
-13389,non functional
+13389,functional
 65683,non functional
-21136,non functional
+21136,functional
 34199,functional
 25206,functional
 55334,functional
@@ -8152,7 +8152,7 @@ id,status_group
 53296,non functional
 74206,functional
 17681,functional
-58387,functional
+58387,non functional
 33887,non functional
 35848,non functional
 13667,non functional
@@ -8194,7 +8194,7 @@ id,status_group
 21420,functional
 52382,functional
 55389,functional
-41881,functional
+41881,functional needs repair
 20879,functional
 39134,functional
 35813,non functional
@@ -8214,7 +8214,7 @@ id,status_group
 60567,non functional
 46380,functional
 36502,functional
-73978,functional needs repair
+73978,functional
 19960,non functional
 22394,functional
 49214,functional
@@ -8253,7 +8253,7 @@ id,status_group
 43481,functional
 36632,non functional
 4347,non functional
-57963,non functional
+57963,functional
 73460,non functional
 26874,functional
 45280,functional
@@ -8525,7 +8525,7 @@ id,status_group
 49299,functional
 35963,functional
 24820,functional
-31300,functional needs repair
+31300,functional
 47524,functional needs repair
 3102,functional
 65536,functional
@@ -8620,7 +8620,7 @@ id,status_group
 15240,functional
 36088,functional
 18110,functional
-2314,functional
+2314,non functional
 14209,functional needs repair
 44542,non functional
 16684,non functional
@@ -8673,8 +8673,8 @@ id,status_group
 69465,functional
 52159,non functional
 62523,non functional
-12909,functional
-9031,non functional
+12909,functional needs repair
+9031,functional
 38142,functional
 9976,non functional
 12457,functional
@@ -8689,7 +8689,7 @@ id,status_group
 37664,functional
 55316,non functional
 67418,non functional
-62465,functional
+62465,non functional
 8682,functional
 18905,functional
 8129,functional
@@ -8722,7 +8722,7 @@ id,status_group
 40770,functional
 3166,non functional
 43932,functional
-9054,non functional
+9054,functional
 3088,non functional
 55589,functional
 56199,functional
@@ -8890,7 +8890,7 @@ id,status_group
 1798,non functional
 15625,functional
 71041,non functional
-14802,functional
+14802,non functional
 70723,non functional
 36579,functional
 55771,non functional
@@ -8932,7 +8932,7 @@ id,status_group
 44175,functional
 34772,non functional
 60568,functional
-30334,functional
+30334,non functional
 46063,functional
 68082,non functional
 51738,non functional
@@ -8996,11 +8996,11 @@ id,status_group
 35674,functional
 41961,non functional
 48812,non functional
-60551,functional needs repair
+60551,non functional
 42318,functional
 17295,functional
 3024,functional needs repair
-31612,non functional
+31612,functional
 19598,functional
 71357,functional
 56135,non functional
@@ -9047,7 +9047,7 @@ id,status_group
 74099,functional
 14041,functional
 43989,non functional
-28795,functional
+28795,non functional
 50777,functional
 3325,functional
 42215,non functional
@@ -9156,7 +9156,7 @@ id,status_group
 32707,functional
 2923,non functional
 67831,functional
-59754,functional
+59754,non functional
 35196,functional
 26403,functional
 38262,functional
@@ -9215,7 +9215,7 @@ id,status_group
 4109,functional
 23934,non functional
 61236,functional
-69600,functional
+69600,functional needs repair
 7298,non functional
 53236,functional
 45783,functional
@@ -9243,11 +9243,11 @@ id,status_group
 33039,non functional
 18162,non functional
 54947,functional
-25673,functional
+25673,non functional
 7034,non functional
 39121,functional
 16592,functional needs repair
-58164,non functional
+58164,functional needs repair
 11108,functional
 57046,functional
 65501,functional
@@ -9273,7 +9273,7 @@ id,status_group
 16257,functional
 37407,functional
 38761,non functional
-73633,functional
+73633,non functional
 54435,non functional
 3892,non functional
 30201,functional
@@ -9288,7 +9288,7 @@ id,status_group
 28539,non functional
 66098,non functional
 1420,functional
-15260,non functional
+15260,functional
 59666,functional
 59841,functional
 70159,functional
@@ -9329,7 +9329,7 @@ id,status_group
 18196,functional
 27990,functional
 17475,functional
-19280,non functional
+19280,functional
 43449,non functional
 5510,functional
 9456,non functional
@@ -9358,7 +9358,7 @@ id,status_group
 34508,non functional
 72432,non functional
 6206,functional
-38985,non functional
+38985,functional
 1344,functional
 56627,non functional
 29762,functional
@@ -9416,7 +9416,7 @@ id,status_group
 50236,non functional
 38455,non functional
 27152,non functional
-37521,functional needs repair
+37521,functional
 8563,non functional
 4711,functional
 34441,functional
@@ -9496,7 +9496,7 @@ id,status_group
 55173,functional
 14007,functional
 53406,non functional
-30316,non functional
+30316,functional
 21429,non functional
 62649,functional
 1558,non functional
@@ -9522,7 +9522,7 @@ id,status_group
 9988,functional
 32999,non functional
 62709,functional
-4103,functional
+4103,functional needs repair
 32031,functional
 17020,functional
 64049,functional
@@ -9546,7 +9546,7 @@ id,status_group
 55786,non functional
 71695,functional needs repair
 2884,functional
-39952,functional
+39952,non functional
 50042,non functional
 36274,non functional
 41219,functional
@@ -9664,7 +9664,7 @@ id,status_group
 56158,functional
 57466,functional
 24805,functional
-13175,functional needs repair
+13175,functional
 45458,functional
 61168,functional
 30529,functional
@@ -9679,7 +9679,7 @@ id,status_group
 24219,functional
 10905,functional
 62780,non functional
-73750,functional
+73750,non functional
 22997,functional
 70130,functional
 67009,non functional
@@ -9771,7 +9771,7 @@ id,status_group
 62758,non functional
 54648,functional
 72980,non functional
-44161,non functional
+44161,functional
 58193,non functional
 41792,non functional
 49261,non functional
@@ -9809,7 +9809,7 @@ id,status_group
 54585,functional
 57391,functional
 56482,functional
-21138,functional
+21138,non functional
 59122,functional
 52626,functional
 24427,functional
@@ -9836,7 +9836,7 @@ id,status_group
 23657,functional
 63604,functional
 36388,functional
-62534,non functional
+62534,functional
 36461,functional
 21746,non functional
 34330,functional
@@ -9957,7 +9957,7 @@ id,status_group
 63484,non functional
 17307,non functional
 20945,functional
-27656,functional
+27656,non functional
 11253,functional
 49767,functional
 42177,non functional
@@ -9974,7 +9974,7 @@ id,status_group
 31813,functional
 28468,non functional
 42358,non functional
-62208,non functional
+62208,functional
 17787,functional
 58743,non functional
 13056,non functional
@@ -9994,7 +9994,7 @@ id,status_group
 56827,functional
 69856,functional
 59624,functional
-68185,non functional
+68185,functional
 24241,functional
 25647,non functional
 52324,functional
@@ -10025,10 +10025,10 @@ id,status_group
 14935,functional
 58508,functional
 31082,functional
-32612,non functional
+32612,functional needs repair
 45879,functional
 23881,functional
-39417,non functional
+39417,functional
 17959,non functional
 67604,functional
 65521,functional
@@ -10125,8 +10125,8 @@ id,status_group
 62495,non functional
 2578,non functional
 63534,functional
-70160,functional
-65946,non functional
+70160,non functional
+65946,functional
 65908,non functional
 19025,functional
 53654,functional
@@ -10192,7 +10192,7 @@ id,status_group
 39771,functional
 54206,non functional
 70278,non functional
-11631,functional
+11631,functional needs repair
 47897,non functional
 54184,non functional
 21662,functional
@@ -10362,7 +10362,7 @@ id,status_group
 30611,functional
 28075,non functional
 35852,non functional
-63586,non functional
+63586,functional needs repair
 62562,non functional
 7228,functional
 57333,functional
@@ -10383,7 +10383,7 @@ id,status_group
 27156,non functional
 5851,functional
 20570,non functional
-32080,functional
+32080,non functional
 26196,functional
 31604,non functional
 43726,functional
@@ -10448,7 +10448,7 @@ id,status_group
 50335,functional
 56890,functional
 58685,functional
-63351,functional needs repair
+63351,non functional
 22616,non functional
 36408,functional
 42175,non functional
@@ -10540,7 +10540,7 @@ id,status_group
 64037,functional needs repair
 7174,functional
 64017,functional
-46109,functional
+46109,non functional
 31830,non functional
 28424,non functional
 17075,functional
@@ -10565,7 +10565,7 @@ id,status_group
 72265,non functional
 43366,functional needs repair
 35135,functional
-60107,functional
+60107,non functional
 35576,non functional
 7773,functional
 31904,functional
@@ -10574,7 +10574,7 @@ id,status_group
 11626,functional needs repair
 41523,non functional
 73662,functional
-2581,functional needs repair
+2581,functional
 65447,functional
 25322,functional
 25020,functional
@@ -10589,7 +10589,7 @@ id,status_group
 59861,non functional
 50657,functional
 50259,non functional
-28611,functional
+28611,non functional
 61030,functional
 42249,non functional
 57372,functional
@@ -10673,7 +10673,7 @@ id,status_group
 8410,functional
 32168,non functional
 58859,functional
-39529,non functional
+39529,functional
 27294,functional
 33250,functional
 36057,functional
@@ -10702,7 +10702,7 @@ id,status_group
 42483,functional
 7955,non functional
 71365,functional
-33389,non functional
+33389,functional
 26479,non functional
 28333,non functional
 60249,functional
@@ -10765,7 +10765,7 @@ id,status_group
 36857,non functional
 47853,functional
 4927,functional
-389,functional
+389,non functional
 62303,functional
 43383,functional
 30752,functional
@@ -10858,7 +10858,7 @@ id,status_group
 45159,non functional
 16346,functional
 9097,functional
-24390,functional
+24390,non functional
 37206,non functional
 55932,non functional
 31489,non functional
@@ -10962,7 +10962,7 @@ id,status_group
 15146,non functional
 41321,functional
 35584,functional
-61931,non functional
+61931,functional
 8313,functional
 3745,non functional
 21322,functional
@@ -11002,7 +11002,7 @@ id,status_group
 50368,non functional
 6540,functional
 28349,non functional
-15601,functional
+15601,non functional
 11778,non functional
 71241,functional
 4589,non functional
@@ -11012,7 +11012,7 @@ id,status_group
 43960,non functional
 4401,functional
 2941,functional
-9834,non functional
+9834,functional
 71721,functional
 57878,functional
 24689,functional
@@ -11067,13 +11067,13 @@ id,status_group
 41455,functional
 56709,non functional
 20439,functional
-47955,non functional
+47955,functional
 5281,functional
 70268,functional
 68550,non functional
 67128,functional
 23921,functional
-66795,non functional
+66795,functional
 51302,functional
 42470,non functional
 66630,non functional
@@ -11108,7 +11108,7 @@ id,status_group
 18216,functional
 21020,functional
 21369,non functional
-49931,functional
+49931,non functional
 1020,functional
 14472,functional
 42357,non functional
@@ -11203,12 +11203,12 @@ id,status_group
 74092,functional needs repair
 38318,functional
 55149,functional
-35546,functional
+35546,non functional
 16340,functional
 18981,non functional
 63164,functional
 49943,functional
-10413,functional
+10413,non functional
 6608,non functional
 52848,functional
 6819,functional
@@ -11231,7 +11231,7 @@ id,status_group
 1589,non functional
 34091,functional
 5526,functional
-69400,non functional
+69400,functional
 10539,functional
 70066,non functional
 44767,non functional
@@ -11305,7 +11305,7 @@ id,status_group
 6395,functional
 41532,functional
 5706,non functional
-25730,functional
+25730,non functional
 43039,functional
 13118,non functional
 65907,functional
@@ -11405,7 +11405,7 @@ id,status_group
 9820,non functional
 50039,functional
 35310,non functional
-27305,non functional
+27305,functional
 884,functional
 52751,functional
 24975,functional
@@ -11475,7 +11475,7 @@ id,status_group
 23649,functional
 19240,functional
 44496,functional
-5712,functional needs repair
+5712,functional
 50983,functional
 61769,functional
 41303,non functional
@@ -11487,14 +11487,14 @@ id,status_group
 40731,non functional
 9018,non functional
 23947,functional
-43533,non functional
+43533,functional
 65063,non functional
 19559,functional
 997,non functional
 43558,non functional
 53925,functional
 54559,non functional
-67967,functional
+67967,functional needs repair
 24383,non functional
 54706,functional
 56522,functional
@@ -11579,7 +11579,7 @@ id,status_group
 72175,non functional
 42554,functional
 58123,non functional
-26228,functional needs repair
+26228,functional
 143,functional
 63371,functional
 64300,functional
@@ -11610,7 +11610,7 @@ id,status_group
 24095,non functional
 13053,functional
 19393,non functional
-11014,non functional
+11014,functional
 60530,functional
 16742,functional
 868,functional
@@ -11630,7 +11630,7 @@ id,status_group
 63901,non functional
 68694,non functional
 68379,functional
-65892,non functional
+65892,functional needs repair
 51758,functional
 10710,non functional
 6181,functional
@@ -11644,7 +11644,7 @@ id,status_group
 49133,non functional
 8246,functional
 29691,non functional
-26966,functional
+26966,non functional
 50023,functional
 54945,functional
 39311,non functional
@@ -11774,7 +11774,7 @@ id,status_group
 51002,functional
 12017,non functional
 60825,non functional
-48806,functional
+48806,non functional
 30481,functional
 46281,functional
 15315,functional
@@ -11842,7 +11842,7 @@ id,status_group
 39390,functional
 16876,functional
 21438,functional
-42308,functional
+42308,non functional
 23868,non functional
 16647,functional
 15275,functional
@@ -11850,7 +11850,7 @@ id,status_group
 43571,non functional
 30303,functional
 45726,functional
-12453,functional
+12453,non functional
 3047,non functional
 54286,functional needs repair
 60038,functional
@@ -11898,7 +11898,7 @@ id,status_group
 53897,functional
 16125,functional
 1419,non functional
-30942,functional
+30942,non functional
 66300,non functional
 5529,non functional
 72022,functional
@@ -11923,7 +11923,7 @@ id,status_group
 58577,functional
 53111,functional
 69736,functional
-7427,functional
+7427,functional needs repair
 63505,functional
 27246,functional
 39240,non functional
@@ -12052,7 +12052,7 @@ id,status_group
 31590,functional needs repair
 41036,functional
 2170,non functional
-54880,non functional
+54880,functional
 3605,functional
 65642,functional
 27440,non functional
@@ -12127,7 +12127,7 @@ id,status_group
 29884,functional
 49640,functional
 16434,non functional
-58694,non functional
+58694,functional
 62064,non functional
 56502,non functional
 37379,functional
@@ -12151,7 +12151,7 @@ id,status_group
 22169,functional
 66731,functional
 69919,non functional
-66730,functional
+66730,functional needs repair
 25173,functional
 25004,non functional
 9726,non functional
@@ -12184,7 +12184,7 @@ id,status_group
 32725,non functional
 37552,functional
 67863,functional
-36522,non functional
+36522,functional
 51401,functional
 60607,non functional
 38468,functional
@@ -12218,7 +12218,7 @@ id,status_group
 3511,non functional
 27673,functional
 46990,functional
-33691,functional needs repair
+33691,non functional
 51567,functional
 43215,non functional
 26957,functional
@@ -12276,7 +12276,7 @@ id,status_group
 2576,functional
 47817,non functional
 16554,functional
-10014,non functional
+10014,functional
 39649,non functional
 21768,functional
 13382,functional
@@ -12294,7 +12294,7 @@ id,status_group
 69515,non functional
 42812,functional needs repair
 10462,non functional
-66822,non functional
+66822,functional
 65092,non functional
 10106,non functional
 31244,non functional
@@ -12330,10 +12330,10 @@ id,status_group
 37244,functional
 47451,non functional
 48106,non functional
-58363,non functional
+58363,functional
 43867,functional
 19137,functional
-72547,non functional
+72547,functional
 26651,functional
 29690,functional
 56624,functional
@@ -12402,7 +12402,7 @@ id,status_group
 53468,non functional
 497,functional
 46354,functional
-38045,functional
+38045,non functional
 29576,non functional
 5200,non functional
 26463,functional
@@ -12434,7 +12434,7 @@ id,status_group
 50595,non functional
 19094,functional
 48584,non functional
-48555,functional
+48555,non functional
 34860,functional
 60788,functional
 52047,non functional
@@ -12478,7 +12478,7 @@ id,status_group
 69020,non functional
 61641,non functional
 172,functional
-11989,non functional
+11989,functional
 61387,non functional
 61936,functional
 51263,functional
@@ -12495,7 +12495,7 @@ id,status_group
 53280,non functional
 51264,non functional
 18339,non functional
-57856,non functional
+57856,functional
 31074,functional
 21979,functional
 68911,non functional
@@ -12510,21 +12510,21 @@ id,status_group
 66142,functional
 17049,functional needs repair
 53488,functional
-40701,functional needs repair
+40701,functional
 8543,functional
 63015,functional
 38752,functional
 5830,non functional
-15645,functional
+15645,non functional
 28181,functional
 51803,functional
 32682,functional
 73083,functional
 8389,functional
 72561,functional
-14682,non functional
+14682,functional
 44125,functional
-19755,non functional
+19755,functional
 18437,functional
 37809,non functional
 58896,functional
@@ -12542,13 +12542,13 @@ id,status_group
 52983,non functional
 11561,functional
 29609,functional
-17759,functional
+17759,non functional
 73738,non functional
-45070,functional
+45070,non functional
 25921,functional
 51424,functional
 74056,non functional
-72373,non functional
+72373,functional
 45594,functional
 44385,non functional
 5349,functional
@@ -12630,7 +12630,7 @@ id,status_group
 9416,functional
 64344,functional
 18984,functional
-20418,non functional
+20418,functional
 18771,non functional
 16973,functional
 44237,functional
@@ -12719,7 +12719,7 @@ id,status_group
 73368,functional
 62965,functional
 51437,functional
-7712,functional
+7712,functional needs repair
 27678,functional
 19658,functional
 8612,functional
@@ -12755,7 +12755,7 @@ id,status_group
 65483,functional needs repair
 24859,non functional
 50004,non functional
-26180,functional
+26180,non functional
 25677,functional
 7806,non functional
 42941,functional
@@ -12812,10 +12812,10 @@ id,status_group
 57943,functional
 66476,functional
 59939,functional
-72408,non functional
+72408,functional
 11873,non functional
 48702,functional
-7015,functional
+7015,non functional
 12932,functional
 28055,functional
 36746,functional
@@ -12908,7 +12908,7 @@ id,status_group
 29605,functional
 47843,functional
 32981,functional
-23712,functional
+23712,non functional
 36757,functional
 2505,non functional
 56157,functional
@@ -12917,7 +12917,7 @@ id,status_group
 33697,functional
 23739,functional
 38956,functional
-47565,non functional
+47565,functional
 22228,non functional
 46096,functional
 71805,functional
@@ -12929,7 +12929,7 @@ id,status_group
 60804,functional needs repair
 15704,non functional
 48807,non functional
-10913,non functional
+10913,functional
 61545,non functional
 37822,functional
 3474,non functional
@@ -12948,7 +12948,7 @@ id,status_group
 68489,functional
 18792,non functional
 51364,non functional
-44553,functional needs repair
+44553,functional
 12148,functional
 63920,non functional
 7497,functional
@@ -12965,7 +12965,7 @@ id,status_group
 4505,functional
 24316,non functional
 2843,functional needs repair
-38403,functional
+38403,functional needs repair
 53329,functional
 50169,functional
 27766,non functional
@@ -12980,7 +12980,7 @@ id,status_group
 42937,functional
 7836,functional
 10177,functional
-44023,functional
+44023,non functional
 4736,non functional
 10658,functional
 18927,functional
@@ -13112,7 +13112,7 @@ id,status_group
 72926,functional
 17509,functional
 40696,non functional
-39363,functional needs repair
+39363,functional
 46131,functional
 4309,non functional
 36560,functional
@@ -13152,7 +13152,7 @@ id,status_group
 44698,functional
 52280,functional
 38993,functional
-54749,functional
+54749,non functional
 12336,functional
 15925,functional
 44285,non functional
@@ -13183,7 +13183,7 @@ id,status_group
 49155,functional
 52364,functional
 52625,functional
-54641,functional
+54641,non functional
 56914,non functional
 941,functional
 1000,functional
@@ -13222,7 +13222,7 @@ id,status_group
 11017,functional
 54104,functional
 37938,functional
-44879,functional
+44879,non functional
 29121,functional
 24111,non functional
 13864,functional
@@ -13285,7 +13285,7 @@ id,status_group
 22882,non functional
 55068,functional needs repair
 9498,functional
-35031,functional
+35031,non functional
 39312,functional
 50350,functional
 58092,functional
@@ -13376,7 +13376,7 @@ id,status_group
 60830,functional
 40236,functional
 16418,functional
-55143,functional needs repair
+55143,functional
 67182,functional
 66236,non functional
 933,functional
@@ -13459,9 +13459,9 @@ id,status_group
 69249,non functional
 1704,functional
 68089,functional
-70082,functional
+70082,non functional
 64897,non functional
-1539,non functional
+1539,functional
 63401,functional
 17289,non functional
 62502,functional
@@ -13612,7 +13612,7 @@ id,status_group
 11052,functional
 1219,functional
 2789,functional
-39769,functional needs repair
+39769,non functional
 39656,non functional
 39024,non functional
 66675,non functional
@@ -13748,7 +13748,7 @@ id,status_group
 12524,functional
 38308,non functional
 69317,functional needs repair
-9504,non functional
+9504,functional
 55756,functional
 18896,functional
 10536,functional
@@ -13954,7 +13954,7 @@ id,status_group
 73049,non functional
 53701,functional
 34042,functional
-58103,functional
+58103,non functional
 69002,functional
 10763,non functional
 21134,non functional
@@ -14052,9 +14052,9 @@ id,status_group
 26753,functional
 29672,functional
 49458,non functional
-5596,non functional
+5596,functional
 12747,functional
-17935,functional
+17935,non functional
 34361,functional
 19181,functional
 56153,functional
@@ -14123,7 +14123,7 @@ id,status_group
 39340,non functional
 27026,non functional
 16713,non functional
-36167,functional
+36167,non functional
 28528,functional
 62788,functional
 30412,non functional
@@ -14299,7 +14299,7 @@ id,status_group
 72115,non functional
 57830,functional
 34661,functional
-11301,non functional
+11301,functional
 752,functional
 13566,functional
 42897,non functional
@@ -14685,7 +14685,7 @@ id,status_group
 20983,non functional
 65551,functional
 47258,functional
-27421,functional
+27421,non functional
 70590,functional
 2087,non functional
 11170,functional
@@ -14775,7 +14775,7 @@ id,status_group
 35480,non functional
 43653,non functional
 49339,functional needs repair
-57344,non functional
+57344,functional
 49524,functional
 50846,functional
 63024,non functional
@@ -14785,7 +14785,7 @@ id,status_group
 36768,non functional
 68255,non functional
 21152,non functional
-32023,functional
+32023,non functional
 26494,non functional
 55396,functional
 6656,functional
@@ -14826,7 +14826,7 @@ id,status_group
 26580,non functional
 66059,non functional
 32944,functional
-13686,non functional
+13686,functional
 8471,non functional
 19620,functional
 74162,non functional
